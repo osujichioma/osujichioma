@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osujichioma
 - 👀 I’m interested in Data analytics 
-- 🌱 I’m currently learning Python, excel, R, Data analytics 
-- 💞️ I’m looking to collaborate on data analytics projects
+- 🌱 I’m currently learning Python, Microsoft Excel, PowerBI for Data analytics.
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me osujichioma11@gmail.com
 
 <!---
